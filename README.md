@@ -1,1 +1,1 @@
-# bicylce_rental
+# bicycle_rental
